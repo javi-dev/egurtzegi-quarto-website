@@ -9,43 +9,48 @@ page-layout: custom
 
 ## Selected recent talks
 
-- 2024 [with A. García-Covelo & I. Urrestarazu-Porta] "/h/ vs. /h̃/: Estudiando una oposición fonológica 'imposible' del euskera desde la fonología de laboratorio". Fonética Open Days Salamanca.
-  <div class="touch-aware-links">
-    <a href="/static/slides/larraine-osoa/2024-larraine-h-fod.html" class="slides-link"><i class="fas fa-chalkboard-teacher"></i><span class="link-text">Slides</span></a>
-  </div>
+- 2024, February 21. [with I. Urrestarazu-Porta & A. García-Covelo] Nasalance-based differentiation of /h/ and /h̃/ in Zuberoan Basque: preliminary results. *UCL Speech, Hearing and Phonetic Sciences Seminar*, London (UK). [Invited talk]
 
-- 2023 [with A. García-Covelo & I. Urrestarazu-Porta] "Does Basque have an impossible phonological opposition?". BCBL Speech and Bilingualism Talks.
-  <div class="touch-aware-links">
-    <a href="/static/slides/larraine-osoa/2023-larraine-nasals-bcbl.html" class="slides-link"><i class="fas fa-chalkboard-teacher"></i><span class="link-text">Slides</span></a>
-    <a href="/static/slides/larraine-osoa/2024-larraine-h-ehu.html" class="slides-link"><i class="fas fa-chalkboard-teacher"></i><span class="link-text">Slides</span></a>
-  </div>
+  ::: {.touch-aware-links}
+  <a href="https://docs.google.com/presentation/d/11DuN9VxOtPZUKGUV74rLmGQ31D8d93AqKw5s5K5m-E8/edit?usp=sharing" class="slides-link"><i class="fas fa-file-powerpoint"></i><span class="link-text">Slides</span></a>
+  :::
 
-- 2023 [with A. García-Covelo & I. Urrestarazu-Porta] "A nasalance-based study of the /h/ vs. /h̃/ opposition in Zuberoan Basque". 20th International Congress of Phonetic Sciences (ICPhS, Prague).
-  <div class="touch-aware-links">
-    <a href="https://urrestarazu.gitlab.io/slides-icphs/2023-larraine-nasals-icphs.html" class="slides-link"><i class="fas fa-chalkboard-teacher"></i><span class="link-text">Slides</span></a>
-  </div>
+- 2023, August 10. [with A. García-Covelo & I. Urrestarazu-Porta] A nasalance-based study of the /h/ vs. /h̃/ opposition in Zuberoan Basque. *20th International Congress of Phonetic Sciences*, Prague (Czech Republic).
 
-- 2023 "An 'impossible' opposition: /h/ vs. /h̃/ in North-Eastern Basque". 53rd Linguistic Symposium on Romance Languages (LSRL 53), Phonetics and phonology - Beyond Romance (Paris, France).
-  <div class="touch-aware-links">
-    <a href="/static/slides/h/paris.html" class="slides-link"><i class="fas fa-chalkboard-teacher"></i><span class="link-text">Slides</span></a>
-  </div>
+  ::: {.touch-aware-links}
+  <a href="https://docs.google.com/presentation/d/1TJZpQKp5_oLrzCk6Lg8GHf5s4Z94QQKqPhqhgcgHqWE/edit?usp=sharing" class="slides-link"><i class="fas fa-file-powerpoint"></i><span class="link-text">Slides</span></a>
+  <a href="https://guarant.cz/icphs2023/1047.pdf" class="pdf-link"><i class="ai ai-open-access"></i><span class="link-text">PDF</span></a>
+  :::
 
-- 2023 [with D. Krajewska, C. Carignan & I. Urrestarazu-Porta] "An acoustic description of sibilant contrasts and sibilant merger in Mixean Basque". 9th International Conference on Experimental Phonetics (CIFE, University of Vigo, Spain).
-  <div class="touch-aware-links">
-    <a href="https://urrestarazu.gitlab.io/slides/2023-vigo-sibilants.html" class="slides-link"><i class="fas fa-chalkboard-teacher"></i><span class="link-text">Slides</span></a>
-  </div>
+- 2023, May 8. [with D. Krajewska & C. Carignan] Sibilant merger in Mixean Basque: An acoustic corpus study. *From Speech Sounds to Spoken Language (From Data to Theory)*, Bucharest (Romania).
 
-- 2023 [with A. García-Covelo & I. Urrestarazu-Porta] "Documenting rare linguistic phenomena: A nasalance-based study of the Zuberoan /h/ vs. /h̃/ opposition". 9th International Conference on Experimental Phonetics (CIFE, University of Vigo, Spain).
-  <div class="touch-aware-links">
-    <a href="/static/slides/h/vigo.html" class="slides-link"><i class="fas fa-chalkboard-teacher"></i><span class="link-text">Slides</span></a>
-  </div>
+  ::: {.touch-aware-links}
+  <a href="/static/files/slides/2023-bucharest.pdf" class="slides-link"><i class="fas fa-file-powerpoint"></i><span class="link-text">Slides</span></a>
+  :::
 
-- 2022 [with J. Cronenberg & J. Harrington] "Andalusian pre-to-post-aspiration and the life cycle of sound change". Workshop on Sound Change. Departamento de Lengua Española y Lingüística General (UNED, Madrid, Spain).
-  <div class="touch-aware-links">
-    <a href="/static/files/slides/h/UNED-Slides.pdf" class="pdf-link"><i class="ai ai-open-access"></i><span class="link-text">PDF</span></a>
-  </div>
+- 2021, September 1. [with C. Carignan] Exploring the acoustic space of Mixean Basque. *17th Conference on Laboratory Phonology*, Vancouver (Canada) [online].
 
-- 2022 "When time is the key: Analyzing time-varying data in laboratory phonology". LPRG - Laboratory Phonology Research Group (Université Paris Cité, Paris, France).
+  ::: {.touch-aware-links}
+  <a href="/static/files/slides/2021-labphon17.pdf" class="slides-link"><i class="fas fa-file-powerpoint"></i><span class="link-text">Slides</span></a>
+  :::
+
+- 2021, June 2. Nasalized /o/ raising as a contact-induced change in Basque. *14th Old World Conference in Phonology*, Barcelona (Spain) [online].
+
+  ::: {.touch-aware-links}
+  <a href="/static/files/slides/2021-ocp18.pdf" class="slides-link"><i class="fas fa-file-powerpoint"></i><span class="link-text">Slides</span></a>
+  :::
+
+- 2020, October 20. [with C. Carignan] The acoustic structure of Mixean Basque. *UPV/EHU*, Vitoria-Gasteiz (Spain) [online]. [Invited talk]
+
+  ::: {.touch-aware-links}
+  <a href="/static/files/slides/2020-ehu.pdf" class="slides-link"><i class="fas fa-file-powerpoint"></i><span class="link-text">Slides</span></a>
+  :::
+
+- 2019, June 19. [with J. Blevins] On aspiration in Basque. *Manchester Phonology Meeting*, Manchester (UK).
+
+  ::: {.touch-aware-links}
+  <a href="/static/files/slides/2019-mfm.pdf" class="slides-link"><i class="fas fa-file-powerpoint"></i><span class="link-text">Slides</span></a>
+  :::
 
 :::
 :::

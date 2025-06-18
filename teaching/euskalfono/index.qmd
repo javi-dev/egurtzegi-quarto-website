@@ -18,63 +18,63 @@ Honakoa euskararen fonetika eta fonologia lantzen dituen sarrera kurtsoa da. Has
 ## Egitasmoa
 
 * 2022ko gaitegia eta informazio orokorra
-  <div class="touch-aware-links">
-    <a href="/static/files/egitasmoa.pdf" class="pdf-link"><i class="ai ai-open-access"></i><span class="link-text">PDF</span></a>
-  </div>
+  ::: {.touch-aware-links}
+  <a href="/static/files/egitasmoa.pdf" class="pdf-link"><i class="ai ai-open-access"></i><span class="link-text">PDF</span></a>
+  :::
 
 ## Gaiak
 
 ### 1.- Gaia: Oinarrizko zenbait konzeptu
 
 * Klasean erabiltako filminak
-  <div class="touch-aware-links">
-    <a href="/static/files/1GAIA.pdf" class="pdf-link"><i class="ai ai-open-access"></i><span class="link-text">PDF</span></a>
-  </div>
+  ::: {.touch-aware-links}
+  <a href="/static/files/1GAIA.pdf" class="pdf-link"><i class="ai ai-open-access"></i><span class="link-text">PDF</span></a>
+  :::
 * IPA (Nazioarteko Alfabeto Fonetikoa): Taula osoa euskaraz
-  <div class="touch-aware-links">
-    <a href="/static/files/IPA_Kiel_2021_full_eus.pdf" class="pdf-link"><i class="ai ai-open-access"></i><span class="link-text">PDF</span></a>
-  </div>
+  ::: {.touch-aware-links}
+  <a href="/static/files/IPA_Kiel_2021_full_eus.pdf" class="pdf-link"><i class="ai ai-open-access"></i><span class="link-text">PDF</span></a>
+  :::
 * IPA (Nazioarteko Alfabeto Fonetikoa): Taula osoa frantsesez
-  <div class="touch-aware-links">
-    <a href="/static/files/IPA_Kiel_2019_full_fra.pdf" class="pdf-link"><i class="ai ai-open-access"></i><span class="link-text">PDF</span></a>
-  </div>
+  ::: {.touch-aware-links}
+  <a href="/static/files/IPA_Kiel_2019_full_fra.pdf" class="pdf-link"><i class="ai ai-open-access"></i><span class="link-text">PDF</span></a>
+  :::
 
 ### 2.- Gaia: Euskararen fonologia
 
 * Klasean erabiltako filminak
-  <div class="touch-aware-links">
-    <a href="/static/files/2GAIA.pdf" class="pdf-link"><i class="ai ai-open-access"></i><span class="link-text">PDF</span></a>
-  </div>
+  ::: {.touch-aware-links}
+  <a href="/static/files/2GAIA.pdf" class="pdf-link"><i class="ai ai-open-access"></i><span class="link-text">PDF</span></a>
+  :::
 * IPA (Nazioarteko Alfabeto Fonetikoa): Kontsonanteen taula euskaraz
-  <div class="touch-aware-links">
-    <a href="/static/files/KontsonanteakAFIrenArabera.pdf" class="pdf-link"><i class="ai ai-open-access"></i><span class="link-text">PDF</span></a>
-  </div>
+  ::: {.touch-aware-links}
+  <a href="/static/files/KontsonanteakAFIrenArabera.pdf" class="pdf-link"><i class="ai ai-open-access"></i><span class="link-text">PDF</span></a>
+  :::
 
 ### 3.- Gaia: Txandakatzeak
 
 * Klasean erabiltako filminak
-  <div class="touch-aware-links">
-    <a href="/static/files/3GAIA.pdf" class="pdf-link"><i class="ai ai-open-access"></i><span class="link-text">PDF</span></a>
-  </div>
+  ::: {.touch-aware-links}
+  <a href="/static/files/3GAIA.pdf" class="pdf-link"><i class="ai ai-open-access"></i><span class="link-text">PDF</span></a>
+  :::
 
 ### 4.- Gaia: Azentua eta prosodia
 
 * Klasean erabiltako filminak
-  <div class="touch-aware-links">
-    <a href="/static/files/4GAIA.pdf" class="pdf-link"><i class="ai ai-open-access"></i><span class="link-text">PDF</span></a>
-  </div>
+  ::: {.touch-aware-links}
+  <a href="/static/files/4GAIA.pdf" class="pdf-link"><i class="ai ai-open-access"></i><span class="link-text">PDF</span></a>
+  :::
 
 ## Ariketak
 
 * 1. ariketa
-  <div class="touch-aware-links">
-    <a href="/static/files/ARIKETAK-1.pdf" class="pdf-link"><i class="ai ai-open-access"></i><span class="link-text">PDF</span></a>
-  </div>
+  ::: {.touch-aware-links}
+  <a href="/static/files/ARIKETAK-1.pdf" class="pdf-link"><i class="ai ai-open-access"></i><span class="link-text">PDF</span></a>
+  :::
 * 2. ariketa
-  <div class="touch-aware-links">
-    <a href="/static/files/ARIKETAK-2.pdf" class="pdf-link"><i class="ai ai-open-access"></i><span class="link-text">PDF</span></a>
-  </div>
+  ::: {.touch-aware-links}
+  <a href="/static/files/ARIKETAK-2.pdf" class="pdf-link"><i class="ai ai-open-access"></i><span class="link-text">PDF</span></a>
+  :::
 * 3. lan idatzia
-  <div class="touch-aware-links">
-    <a href="/static/files/AukeratzekoTestuak.pdf" class="pdf-link"><i class="ai ai-open-access"></i><span class="link-text">PDF</span></a>
-  </div> 
+  ::: {.touch-aware-links}
+  <a href="/static/files/AukeratzekoTestuak.pdf" class="pdf-link"><i class="ai ai-open-access"></i><span class="link-text">PDF</span></a>
+  :::
