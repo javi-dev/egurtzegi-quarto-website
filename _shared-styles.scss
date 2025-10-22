@@ -439,6 +439,11 @@ a {
         font-size: $icon-size-xl; // 32px on larger screens
       }
       
+      // Ensure icon elements inherit the link color
+      i {
+        color: inherit;
+      }
+      
       &:hover,
       &:focus {
         color: var(--color-primary-hover);
